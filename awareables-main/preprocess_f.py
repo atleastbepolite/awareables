@@ -3,6 +3,7 @@ import cv2
 from imutils.object_detection import non_max_suppression 
 import time
 
+#checking
 def preProcess(img, outdir, setting):
     # original image - captured from camera upon button activation
     # braille.jpg should be replaced with the file path from camera capture
